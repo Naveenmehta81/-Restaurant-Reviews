@@ -1,0 +1,11 @@
+review_text,sentiment_label
+"Great food and service! Will definitely return.",positive
+"Terrible experience, the food was cold and the staff were rude.",negative
+"Nice ambiance but the food was just average.",neutral
+"Had an amazing meal, highly recommend the pasta.",positive
+"Very disappointed, the food was bland and overpriced.",negative
+"Friendly staff and cozy atmosphere, but the food was nothing special.",neutral
+"Fantastic meal, the steak was cooked perfectly.",positive
+"Awful. The food was cold, and the waiter was rude.",negative
+"Good food, decent prices, will come again.",positive
+"Too noisy, and the food wasn't as good as I expected.",negative
